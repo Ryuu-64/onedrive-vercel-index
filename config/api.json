@@ -1,7 +1,7 @@
 {
-  "clientId": "d87bcc39-1750-4ca0-ad54-f8d0efbb2735",
+  "clientId": "57232e18-42f0-4774-bc5f-57c4cfc8a70e",
   "redirectUri": "http://localhost",
-  "base": "/Public",
+  "base": "/open",
   "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
   "driveApi": "https://graph.microsoft.com/v1.0/me/drive"
 }
